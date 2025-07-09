@@ -1,0 +1,8 @@
+Q: What is the refund policy?
+A: You can get a full refund within 30 days.
+
+Q: How do I reset my password?
+A: Go to Settings > Security > Reset Password.
+
+Q: Can I cancel my subscription?
+A: Yes, you can cancel anytime before the billing date.
